@@ -1,0 +1,13 @@
+Programa em Java feito inteiramente de classes.
+Mas pode ocorrer de ter uma ou mais Classes dentro de um Pacote(Package)
+
+Encapsular é proteger os atributos e os métodos para nenhum outro operador não mexer nessa parte de programação.
+Por exemplo: Os Correios e um E-commerce(Você), no qual o correio tem um seus proprios atributos (Sedex[Taxa, tipo de Sedex, ClienteVIP, fretes], CEP[Rua, Bairro, Municipio] )
+
+
+Encapsulamento tipos: Private, ninguém fora da classe pode acessar (-), Public, qualquer um pode acessar (+) e Protected, permite as classes dos mesmo Pacote podem acessar (#)
+
+Pesquisar Padrões de Projeto*******
+
+
+Obs: Um atributo pode ter um encapsulamento Private e seu método get ser public.
